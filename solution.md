@@ -1,5 +1,3 @@
-Great — you're asking the **right question**.
-
 We have this in our derivation:
 
 $$
@@ -143,7 +141,3 @@ This is now in the exact format that the question demands — a **single linear 
 * This works because bilinear/quadratic expressions can always be written as **linear functions** over the outer product features.
 * We must **vectorize** the tensor product if we want the weight vector $\tilde{W}$ to be in $\mathbb{R}^{D^2}$
 * This technique is used in machine learning kernels, e.g. polynomial kernels.
-
----
-
-Would you like this integrated into the final writeup now, fully formatted and corrected?
